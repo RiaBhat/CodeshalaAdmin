@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "503844808448",
+    "firebase_url": "https://codeshalaadmin.firebaseio.com",
+    "project_id": "codeshalaadmin",
+    "storage_bucket": "codeshalaadmin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:503844808448:android:3cf87b0822da09b0",
+        "android_client_info": {
+          "package_name": "projects.riabhat.com.codeshalaadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "503844808448-jcufg7kovh8ba4kfcnn7jcq7rrsre7h4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "projects.riabhat.com.codeshalaadmin",
+            "certificate_hash": "fb9c7fb10ac736489af7beb6c02262ce49d9ae55"
+          }
+        },
+        {
+          "client_id": "503844808448-flnr8pte8sb84v74pe71l4u95d3qpo6c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoEyLDBrDBHjiKkzZx16fiA-JWVbnuvCY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "503844808448-flnr8pte8sb84v74pe71l4u95d3qpo6c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
